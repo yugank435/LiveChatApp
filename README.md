@@ -10,7 +10,6 @@ A full-stack chat app built with Next.js, NestJS, JWT authentication, MongoDB, a
 ## Requirements
 
 - Node.js 20+
-- MongoDB running locally or via Docker
 
 ## Setup
 
@@ -24,8 +23,3 @@ npm run dev
 The frontend runs on `http://localhost:3000`.
 The API runs on `http://localhost:4000`.
 
-## MongoDB with Docker
-
-```bash
-docker compose up -d
-```
